@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Fonts xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Regular" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di97" Name="Myriad Pro">
+		<Font Self="di97FontnMyriad Pro Condensed" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Condensed Italic" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold Condensed" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold Condensed Italic" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Regular" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Italic" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Semibold" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Semibold Italic" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold Italic" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia4" Name="Kozuka Mincho Pr6N">
+		<Font Self="dia4FontnKozuka Mincho Pr6N R" WritingScript="1" FullName="Kozuka Mincho Pr6N R" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dif4" Name="Gillius ADF No2">
+		<Font Self="dif4FontnGillius ADF No2 Regular" WritingScript="0" FullName="GilliusADFNo2-Regular" FullNameNative="GilliusADFNo2-Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.009;FFEdit" FontFamily="Gillius ADF No2" Name="Gillius ADF No2 Regular" PostScriptName="GilliusADFNo2-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="dif4FontnGillius ADF No2 Italic" WritingScript="0" FullName="GilliusADFNo2-Italic" FullNameNative="GilliusADFNo2-Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.009;FFEdit" FontFamily="Gillius ADF No2" Name="Gillius ADF No2 Italic" PostScriptName="GilliusADFNo2-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="dif4FontnGillius ADF No2 Bold" WritingScript="0" FullName="GilliusADFNo2-Bold" FullNameNative="GilliusADFNo2-Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.009;FFEdit" FontFamily="Gillius ADF No2" Name="Gillius ADF No2 Bold" PostScriptName="GilliusADFNo2-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="dif4FontnGillius ADF No2 Bold Italic" WritingScript="0" FullName="GilliusADFNo2-BoldItalic" FullNameNative="GilliusADFNo2-BoldItalic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.009;FFEdit" FontFamily="Gillius ADF No2" Name="Gillius ADF No2 Bold Italic" PostScriptName="GilliusADFNo2-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di10d" Name="Linux Libertine O">
+		<Font Self="di10dFontnLinux Libertine O Regular" WritingScript="0" FullName="Linux Libertine O" FullNameNative="Linux Libertine O" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.3.0 " FontFamily="Linux Libertine O" Name="Linux Libertine O Regular" PostScriptName="LinLibertineO" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di10dFontnLinux Libertine O Italic" WritingScript="0" FullName="Linux Libertine O Italic" FullNameNative="Linux Libertine O Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.1.6 " FontFamily="Linux Libertine O" Name="Linux Libertine O Italic" PostScriptName="LinLibertineOI" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di10dFontnLinux Libertine O Semibold" WritingScript="0" FullName="Linux Libertine O Semibold" FullNameNative="Linux Libertine O Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 5.1.2 " FontFamily="Linux Libertine O" Name="Linux Libertine O Semibold" PostScriptName="LinLibertineOZ" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di10dFontnLinux Libertine O Semibold Italic" WritingScript="0" FullName="Linux Libertine O Semibold Italic" FullNameNative="Linux Libertine O Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 5.1.2 " FontFamily="Linux Libertine O" Name="Linux Libertine O Semibold Italic" PostScriptName="LinLibertineOZI" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di10dFontnLinux Libertine O Bold" WritingScript="0" FullName="Linux Libertine O Bold" FullNameNative="Linux Libertine O Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 5.1.4 " FontFamily="Linux Libertine O" Name="Linux Libertine O Bold" PostScriptName="LinLibertineOB" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" TypekitID="$ID/" />
+		<Font Self="di10dFontnLinux Libertine O Bold Italic" WritingScript="0" FullName="Linux Libertine O Bold Italic" FullNameNative="Linux Libertine O Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.1.8 " FontFamily="Linux Libertine O" Name="Linux Libertine O Bold Italic" PostScriptName="LinLibertineOBI" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di299" Name="Damion">
+		<Font Self="di299FontnDamion Regular" WritingScript="0" FullName="Damion" FullNameNative="Damion" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.000" FontFamily="Damion" Name="Damion Regular" PostScriptName="Damion" Status="Installed" FontStyleName="Regular" FontType="TrueType" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di2bb" Name="ZapfHumnstGrk Dm BT">
+		<Font Self="di2bbFontnZapfHumnstGrk Dm BT Demi" WritingScript="0" FullName="ZapfHumnstGrk Dm BT Demi" FullNameNative="ZapfHumnstGrk Dm BT Demi" FontStyleNameNative="Demi" PlatformName="$ID/" Version="Version 2.00 Bitstream Greek Set" FontFamily="ZapfHumnstGrk Dm BT" Name="ZapfHumnstGrk Dm BT Demi" PostScriptName="ZapfHumnst601GrkBT-Demi" Status="Installed" FontStyleName="Demi" FontType="TrueType" TypekitID="$ID/" />
+		<Font Self="di2bbFontnZapfHumnstGrk Dm BT Demi Inclined" WritingScript="0" FullName="ZapfHumnstGrk Dm BT Demi Inclined" FullNameNative="ZapfHumnstGrk Dm BT Demi Inclined" FontStyleNameNative="Demi Inclined" PlatformName="$ID/" Version="Version 2.00 Bitstream Greek Set" FontFamily="ZapfHumnstGrk Dm BT" Name="ZapfHumnstGrk Dm BT Demi Inclined" PostScriptName="ZapfHumnst601GrkBT-DemiInclind" Status="Installed" FontStyleName="Demi Inclined" FontType="TrueType" TypekitID="$ID/" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua3" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua8" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua9" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+</idPkg:Fonts>

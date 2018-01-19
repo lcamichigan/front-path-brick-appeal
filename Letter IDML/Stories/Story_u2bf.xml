@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u2bf" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Brick Example">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>John E. Mason</Content>
+				<Br />
+				<Content>Pennsylvania 1913</Content>
+				<Br />
+				<Content>Naught Without Labor</Content>
+				<Br />
+				<Content>Forever in ZAX</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Brick Example" SpaceBefore="6">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Rectangle Self="u380" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" AppliedObjectStyle="ObjectStyle/$ID/[None]" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" LocalDisplaySetting="Default" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 23.125 -23.125" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="-23.125 -23.125" LeftDirection="-23.125 -23.125" RightDirection="-23.125 -23.125" />
+									<PathPointType Anchor="-23.125 23.125" LeftDirection="-23.125 23.125" RightDirection="-23.125 23.125" />
+									<PathPointType Anchor="23.125 23.125" LeftDirection="23.125 23.125" RightDirection="23.125 23.125" />
+									<PathPointType Anchor="23.125 -23.125" LeftDirection="23.125 -23.125" RightDirection="23.125 -23.125" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<ObjectExportOption SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" EpubType="$ID/" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<TextWrapPreference TextWrapMode="None" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" Inverse="false">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+					<PDF Self="u37b" GrayVectorPolicy="IgnoreAll" RGBVectorPolicy="HonorAllProfiles" CMYKVectorPolicy="IgnoreAll" OverriddenPageItemProps="" AppliedObjectStyle="ObjectStyle/$ID/[None]" ImageTypeName="$ID/Adobe Portable Document Format (PDF)" LocalDisplaySetting="Default" ItemTransform="1.25 0 0 1.25 -23.125 -23.125" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" Visible="true" Name="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+						<Properties>
+							<Contents><![CDATA[JVBERi0xLjUKJdDUxdgKNiAwIG9iago8PAovTGVuZ3RoIDMxNiAgICAgICAKL0ZpbHRlciAvRmxh
+dGVEZWNvZGUKPj4Kc3RyZWFtCnjahVLBbcMwDPx7Ci5gghRFi5og76Ij5NGiaAr01fV7op3YLYIE
+EOTzUacjKQq9kdBpkidfxS6kpMG+bufL9E2InygPTcLWw+mHBo2l9IGNZTAQiEjtVNlFlC6gnD0C
+go36BAVYvFUK1jDppIW1S8BV2VrplTru0YIMjGvv1ukMmXBrLYIAwmobp1tpCzVuoqs6/ys0EanZ
+THfvDd0SBTU/4Hbh/L+2P9x8IDd4j8oMvbQkR9omfmDnrMxR/5zFuhuQDfECFNx79DLqmrNTVQNx
+NC+iLiOuUW1IRoOtrinoAPkKi6f0lsyh3ofc9QXBdQ63Fmkh1eC6AgE1YlXB5Hm8z+pU18e706n3
+3WOflyszJkA0O7VwCSA0LDATRvltqDMDnsMiln4Ylq7DD3e/0vSS6yv3Z5P/C9LMlrEKZW5kc3Ry
+ZWFtCmVuZG9iagoxMCAwIG9iago8PAovUHJvZHVjZXIgKHBkZlRlWC0xLjQwLjE4KQovQ3JlYXRv
+ciAoVGVYKQovQ3JlYXRpb25EYXRlIChEOjIwMTgwMTE4MTI0NDU4LTA1JzAwJykKL01vZERhdGUg
+KEQ6MjAxODAxMTgxMjQ0NTgtMDUnMDAnKQovVHJhcHBlZCAvRmFsc2UKL1BURVguRnVsbGJhbm5l
+ciAoVGhpcyBpcyBwZGZUZVgsIFZlcnNpb24gMy4xNDE1OTI2NS0yLjYtMS40MC4xOCAoVGVYIExp
+dmUgMjAxNykga3BhdGhzZWEgdmVyc2lvbiA2LjIuMykKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL1R5
+cGUgL09ialN0bQovTiA3Ci9GaXJzdCAzOQovTGVuZ3RoIDIyMyAgICAgICAKL0ZpbHRlciAvRmxh
+dGVEZWNvZGUKPj4Kc3RyZWFtCnjaTY/BasMwEETv+or5A0VWHbsQckjS5BAKxe7N+KA6G2MIlpE2
+Jf37ruK2KYgFze682c2xwBPKAgZmaZFJLWFhCosSmTF4RpZbtVop/f41EfSb60nprR+ZRo5Yir9S
+uqLor6GjKLC78EqnwW38Dc1CBFvIa5WYg7iEnGbW64SFsC4+1JPrSIKlkTKYKYyyzf37cuNDzY5J
+lkyCcILvamI0Mrvbo51ZjwLoqT9Pof9A80fTO/ocOqoOmxZz9r+TYrrpKrsZpY/DKaLJU9YP+Xdy
+69hdfK9my+OOb7e+VX4KZW5kc3RyZWFtCmVuZG9iagoxMSAwIG9iago8PAovVHlwZSAvWFJlZgov
+SW5kZXggWzAgMTJdCi9TaXplIDEyCi9XIFsxIDIgMV0KL1Jvb3QgOSAwIFIKL0luZm8gMTAgMCBS
+Ci9JRCBbPDA2NUIwODQxM0NGREYxNkQxRkZFMDgzODA0Mzc5NDFDPiA8MDY1QjA4NDEzQ0ZERjE2
+RDFGRkUwODM4MDQzNzk0MUM+XQovTGVuZ3RoIDQ0ICAgICAgICAKL0ZpbHRlciAvRmxhdGVEZWNv
+ZGUKPj4Kc3RyZWFtCnjaDca5EQAgEAOxtY8npH8C+qMKcKAZAc9MR0ULBWIhH/IeQ9qoLh9IDAOO
+CmVuZHN0cmVhbQplbmRvYmoKc3RhcnR4cmVmCjEwMDEKJSVFT0YK]]></Contents>
+							<GraphicBounds Left="0" Top="0" Right="37" Bottom="37" />
+						</Properties>
+						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
+						<GraphicLayerOption UpdateLinkOption="KeepOverrides" />
+						<TextWrapPreference TextWrapMode="None" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" Inverse="false">
+							<Properties>
+								<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+							</Properties>
+							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+						</TextWrapPreference>
+						<Link Self="u37f" LinkResourceSize="0~50d" LinkResourceURI="file:/Users/nathanwhetsell/Documents/Sigma/front-path-brick-appeal/logo.pdf" LinkResourceFormat="$ID/Adobe Portable Document Format (PDF)" StoredState="Embedded" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 131607710983061776 1293" LinkImportModificationTime="2018-01-18T12:44:58" LinkImportTime="2018-01-18T12:45:13" AssetURL="$ID/" AssetID="$ID/" RenditionData="Actual" />
+						<MetadataPacketPreference>
+							<Properties>
+								<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161210, 2017/08/11-10:28:36        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:CreateDate>2018-01-18T12:44:58-05:00</xmp:CreateDate>
+         <xmp:CreatorTool>TeX</xmp:CreatorTool>
+         <xmp:ModifyDate>2018-01-18T12:44:58-05:00</xmp:ModifyDate>
+         <pdfx:PTEX.Fullbanner>This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) kpathsea version 6.2.3</pdfx:PTEX.Fullbanner>
+         <pdf:Producer>pdfTeX-1.40.18</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+							</Properties>
+						</MetadataPacketPreference>
+						<PDFAttribute PageNumber="1" PDFCrop="CropContentVisibleLayers" TransparentBackground="true" />
+					</PDF>
+				</Rectangle>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

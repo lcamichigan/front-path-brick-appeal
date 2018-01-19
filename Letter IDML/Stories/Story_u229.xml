@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u229" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>February 2014</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Salutation">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Dear Brothers and Friends of Sigma,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>As you may know as a homeowner, things often need repair and upkeep. This is now especially true of Sigma’s chapter house at 1601 Washtenaw Avenue.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The path leading from the sidewalk of Washtenaw Avenue to the chapter house is in serious need of repair and refurbishment. However, rather than simply pour new concrete, we had a better idea. We’re providing a unique opportunity to leave a permanent mark on Sigma’s chapter house with personalized bricks for the path!</Content>
+				<Br />
+				<Content>Dedicate the brick to your family, your graduating class, ΛΧΑ, whatever you choose! Fill out and mail the order form below by March 29 to donate a brick and choose the message you leave.</Content>
+				<Br />
+				<Content>This project will not only bring a much-needed update to our pathway, but also an unmatched opportunity to leave a physical mark on the chapter you continue to sustain.</Content>
+				<Br />
+				<Content>If you have any questions or concerns, I hope you’ll contact me—I’m more than happy to answer any and all of them.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Valediction">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sincerely yours in ΖΑΧ,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Name ’##, Alumni Secretary, Σ ####</Content>
+				<Br />
+				<Content>(###) ###-####</Content>
+				<Br />
+				<Content>email@umich.edu</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
