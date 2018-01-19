@@ -1,6 +1,6 @@
 # Front Path Brick Appeal
 
-[![Build status](https://ci.appveyor.com/api/projects/status/njbi2ne90pj81idb?svg=true)](https://ci.appveyor.com/project/lcamichigan/donation-appeal-letter)
+[![Build status](https://ci.appveyor.com/api/projects/status/mf73kfhxj00y5e9s?svg=true)](https://ci.appveyor.com/project/lcamichigan/front-path-brick-appeal)
 
 This is a re-creation of resources for an appeal to repave the front path of
 Sigma’s chapter house with personalized bricks.
