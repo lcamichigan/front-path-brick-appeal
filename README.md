@@ -69,7 +69,7 @@ for the path to the font you’re modifying (for example,
 Demi):
 
 ```sh
-fontPath=~/Library/Fonts/Zapf\ Humanist\ 601\ Greek\ Demi/Bitstream\ -\ ZapfHumnstGrk\ Dm\ BT\ Demi.ttf
+fontPath=~/Library/Fonts/Bitstream\ -\ ZapfHumnstGrk\ Dm\ BT\ Demi.ttf
 ```
 
 Before modifying the font, make a back-up copy of it:
