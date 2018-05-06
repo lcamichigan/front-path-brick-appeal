@@ -28,7 +28,7 @@ To edit the letter about the bricks, you need:
   | Font                                                                                       | Download URL                                                        |
   |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
   | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)                                     | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip |
-  | [Linux Libertine](http://www.linuxlibertine.org) (OpenType version)                        | http://mirrors.ctan.org/fonts/libertine.zip                         |
+  | [Linux Libertine](http://libertine-fonts.org) (OpenType version)                           | http://mirrors.ctan.org/fonts/libertine.zip                         |
   | [Zapf Humanist Greek](https://www.paratype.com/btstore/fonts/Zapf-Humanist-Greek.htm) Demi | N/A                                                                 |
 
 ## Modifying an Inscription Font
