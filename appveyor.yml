@@ -1,17 +1,12 @@
 # https://www.appveyor.com/docs/appveyor-yml
 
 install:
-  - ps: (New-Object Net.WebClient).DownloadFile('ftp://ftp.info-zip.org/pub/infozip/win32/zip300xn-x64.zip', [IO.Path]::Combine($env:APPVEYOR_BUILD_FOLDER, 'zip300xn-x64.zip'))
-  - 7z x zip300xn-x64.zip -ozip300xn-x64
-  - cd zip300xn-x64
-  - 7z x zip300xn-x64.zip -o"%ProgramFiles%\zip300xn-x64"
-  - set PATH=%PATH%;%ProgramFiles%\zip300xn-x64
-  - cd ..
+  - choco install zip
+  - ps: Start-FileDownload 'https://raw.githubusercontent.com/lcamichigan/make-idml/master/make-idml.cmd'
 
 build_script:
   - cd "Letter IDML"
-  - zip -X0 ..\Letter.idml mimetype
-  - zip --recurse-paths --no-dir-entries -X9 ..\Letter.idml * --exclude mimetype
+  - ..\make-idml ..\Letter.idml
 
 test: off
 

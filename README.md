@@ -9,7 +9,6 @@ Sigma’s chapter house with personalized bricks.
 
 * [Getting Started](#getting-started)
 * [Modifying an Inscription Font](#modifying-an-inscription-font)
-* [Creating an InDesign File](#creating-an-indesign-file)
 * [About the Letter](#about-the-letter)
 
 ## Getting Started
@@ -21,7 +20,7 @@ To edit the letter about the bricks, you need:
 
 * Letter.idml. The easiest way to get this file is to download it from
   https://ci.appveyor.com/project/lcamichigan/front-path-brick-appeal/build/artifacts,
-  but you can also [create your own](#creating-an-indesign-file).
+  but you can also [create your own](https://github.com/lcamichigan/make-idml).
 
 * These fonts:
 
@@ -147,50 +146,6 @@ Finally, modify the font to use the new character-to-glyph mapping:
 
 ```sh
 ftxdumperfuser --table cmap --datafile cmap.xml "$fontPath"
-```
-
-## Creating an InDesign File
-
-Creating an InDesign IDML file from the files in this repository requires the
-free [Zip](http://www.info-zip.org/Zip.html) utility. To install Zip on Windows:
-
-1. Download zip300xn-x64.zip from
-   ftp://ftp.info-zip.org/pub/infozip/win32/zip300xn-x64.zip.
-
-2. Right-click zip300xn-x64.zip, choose Extract All, and then click Extract to
-   extract a folder named zip300xn-x64.
-
-3. Right-click zip300xn-x64.zip in the zip300xn-x64 folder you just extracted,
-   choose Extract All, and then click Extract to extract another folder named
-   zip300xn-x64.
-
-4. Move this second zip300xn-x64 folder to C:\Program Files.
-
-Zip is included with macOS.
-
-To create an InDesign file, first download this repository as a ZIP archive. To
-do this, click
-[here](https://github.com/lcamichigan/front-path-brick-appeal/archive/master.zip).
-Unzip the archive wherever you wish. Then, `cd` to the
-[Letter IDML](Letter%20IDML) folder and enter in PowerShell
-
-```powershell
-& "$env:ProgramFiles\zip300xn-x64\zip" -X0 ..\Letter.idml mimetype
-& "$env:ProgramFiles\zip300xn-x64\zip" --recurse-paths --no-dir-entries -X9 ..\Letter.idml * --exclude mimetype
-```
-
-or in Command Prompt
-
-```batch
-"%ProgramFiles%\zip300xn-x64\zip" -X0 ..\Letter.idml mimetype
-"%ProgramFiles%\zip300xn-x64\zip" --recurse-paths --no-dir-entries -X9 ..\Letter.idml * --exclude mimetype
-```
-
-or in Terminal
-
-```sh
-zip -X0 ../Letter.idml mimetype
-zip --recurse-paths --no-dir-entries -X9 ../Letter.idml * --exclude *.DS_Store mimetype
 ```
 
 ## About the Letter
