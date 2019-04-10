@@ -157,5 +157,5 @@ in LaTeX. To create this image,
 cross-and-crescent package, and then enter in PowerShell or Terminal
 
 ```sh
-latex -jobname logo -output-format pdf '\documentclass{standalone}\usepackage{cross-and-crescent}\begin{document}\begin{tikzpicture}[scale=36bp/8cm]\crossAndCrescentSetMacros\draw[line join=round,line width=1bp]\crossAndCrescentPath\end{tikzpicture}\end{document}'
+pdflatex -jobname logo '\documentclass{standalone}\usepackage{cross-and-crescent}\begin{document}\begin{tikzpicture}[scale=36bp/8cm]\crossAndCrescentSetMacros\draw[line join=round,line width=1bp]\crossAndCrescentPath\end{tikzpicture}\end{document}'
 ```
